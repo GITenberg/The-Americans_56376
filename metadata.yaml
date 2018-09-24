@@ -1,0 +1,31 @@
+_repo: The-Americans_56376
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Holt, Edwin B.
+    gutenberg_agent_id: '48806'
+    url: http://www.gutenberg.org/2009/agents/48806
+creator:
+  author:
+    agent_name: Münsterberg, Hugo
+    aliases:
+    - Munsterberg, Hugo
+    - Hugo Münsterberg
+    birthdate: 1863
+    deathdate: 1916
+    gutenberg_agent_id: '5888'
+    url: http://www.gutenberg.org/2009/agents/5888
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_M%C3%BCnsterberg
+description: ''
+gutenberg_issued: '2018-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Americans
+url: http://www.gutenberg.org/ebooks/56376
