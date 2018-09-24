@@ -5,6 +5,9 @@ contributor:
     agent_name: Holt, Edwin B.
     gutenberg_agent_id: '48806'
     url: http://www.gutenberg.org/2009/agents/48806
+covers:
+- cover_type: archival
+  image_path: 56376-h/images/cover.jpg
 creator:
   author:
     agent_name: Münsterberg, Hugo
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5888
     wikipedia: http://en.wikipedia.org/wiki/Hugo_M%C3%BCnsterberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56376#The-Americans
 gutenberg_issued: '2018-01-15'
 gutenberg_type: Text
 identifiers:
